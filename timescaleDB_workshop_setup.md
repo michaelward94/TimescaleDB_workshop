@@ -193,3 +193,5 @@ timescaledb-parallel-copy --db-name timescale_workshop
 You will need to modify the `--file` switch to include the complete path to where you saved the csv file.
 
 You may need to modify the input to the switches if you used a different database name, schema name, or password
+
+*Important* : This command as shown has line breaks but must be executed as a single line in your terminal
